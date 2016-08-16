@@ -200,7 +200,7 @@ digraph {
     }
 
     subgraph cluster_r3_1 {
-        label="Qubes OS 3.1 (Summer/Fall 2015)";
+        label="Qubes OS 3.1 (Spring 2016)";
         _r3_1 [style=invisible];
 
         core_mgmt;
@@ -212,7 +212,7 @@ digraph {
     }
 
     subgraph cluster_r3_2 {
-        label="Qubes OS 3.2 (Fall/Winter 2015)";
+        label="Qubes OS 3.2 (Summer 2016)";
         _r3_2 [style=invisible];
 
         subgraph cluster_r3_2_preconf_profiles {
@@ -240,7 +240,7 @@ digraph {
     }
 
    subgraph cluster_r4_0 {
-        label="Qubes OS 4.0 (Winter 2015)";
+        label="Qubes OS 4.0 (Winter 2016)";
         _r4_0 [style=invisible];
  
         core_coreng;
